@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css?family=Lato);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans);
+@import url('common.css');
+@import url('main_content.css');
+
+
+#menu-top {
+    color: white;
+    background: rgba(255, 255, 255, 0);
+    border: 0;
+}
+
+#menu-top li a{
+    color: white;
+}
+
+#menu-top li a:hover{
+    color: #62ff95;
+}
+
+#menu-scroll {
+    visibility: hidden;
+    background: rgba(255, 255, 255, 0.9);
+}
+
